@@ -1,0 +1,157 @@
+logging:
+  config: file:config/logback.xml
+
+
+# dayOfWeeks: MONDAY(1) ~ SUNDAY(7)
+# time: [eq|gt|lt] time
+#       bw time1 time2
+# actions: awake
+#          point [count]
+#          click x y
+#          sleep
+#          keyin text
+#          enter
+#          exit
+schedule:
+  actionDelaySec: 2
+
+
+  check-list:
+    - name: "work on (MONDAY, WEDNESDAY, FRIDAY)"
+      condition:
+        dayOfWeeks: 1, 3, 5
+        time: "eq 08:57"
+      action-templates:
+        - "work on"
+        - "init work"
+    - name: "work on (TUESDAY, THURSDAY)"
+      condition:
+        dayOfWeeks: 2, 4
+        time: "eq 08:58"
+      action-templates:
+        - "work on"
+        - "init work"
+
+    - name: "work off (MONDAY, THURSDAY)"
+      condition:
+        dayOfWeeks: 1, 4
+        time: "eq 18:03"
+      action-templates:
+        - "work off"
+        - "close all windows"
+    - name: "work off (TUESDAY, WEDNESDAY, FRIDAY)"
+      condition:
+        dayOfWeeks: 2, 4, 5
+        time: "eq 18:04"
+      action-templates:
+        - "work off"
+        - "close all windows"
+
+    - name: "shut down"
+      condition:
+        dayOfWeeks: 5
+        time: "gt 18:25"
+      action-templates:
+        - "shut down"
+
+    # - name: "test"
+    #   condition:
+    #     dayOfWeeks: 1, 2, 3, 4, 5
+    #     time: "bw 08:57 19:00"
+    #   action-templates:
+    #     - "print point"
+
+    - name: "on duty"
+      condition:
+        dayOfWeeks: 1, 2, 3, 4, 5
+        time: "bw 08:57 19:00"
+      action-templates:
+        - "print point"
+
+
+  action-template-list:
+    - name: "work on"
+      actions:
+        - "awake::awake"
+        - "click start button::click 18 1060"
+        - "execute chrome::click 105 659"
+        - "select IVY::click 1142 98"
+        - "select works::click 1172 139"
+        - "select home::click 1412 135"
+        - "go password::click 561 605"
+        - "password set::keyin ahffkWkti18!"
+        - "login::enter"
+        - "click on::click 1350 420"
+        - "click confirm::click 1240 800"
+
+    - name: "work off"
+      actions:
+        - "awake::awake"
+        - "click start button::click 18 1060"
+        - "execute chrome::click 105 659"
+        - "select IVY::click 1142 98"
+        - "select works::click 1172 139"
+        - "select home::click 1412 135"
+        - "go password::click 561 605"
+        - "password set::keyin ahffkWkti18!"
+        - "login::enter"
+        - "click off::click 1575 420"
+        - "click confirm::click 1240 800"
+        - "click my name::click 1755 140"
+        - "click logout::click 1565 314"
+
+    - name: "shut down"
+      actions:
+        - "awake::awake"
+        - "click start button::click 18 1060"
+        - "click power button::click 18 1010"
+        - "click shutdown button::click 18 935"
+        - "exit::exit"
+
+    - name: "init work"
+      actions:
+        - "awake::awake"
+        - "click start button::click 18 1060"
+        - "execute explorer::click 310 660"
+        - "click start button::click 18 1060"
+        - "execute notepad++::click 205 870"
+
+    - name: "close all windows"
+      actions:
+        - "awake::awake"
+        - "close right::click 3820 15"
+        - "close right::click 3820 15"
+        - "close right::click 3820 15"
+        - "close right::click 3820 15"
+        - "close left::click 1900 15"
+        - "close left::click 1900 15"
+        - "close left::click 1900 15"
+        - "close left::click 1900 15"
+        - "click 2'st::click 255 1062"
+        - "close left::click 1900 15"
+        - "close right::click 3820 15"
+        - "click 2'st::click 255 1062"
+        - "close left::click 1900 15"
+        - "close right::click 3820 15"
+
+    - name: "print point"
+      actions:
+        - "awake::awake"
+        - "point::point 5"
+
+
+  exceptDates:
+    - "2024-03-01"
+    - "2024-03-26"
+    - "2024-04-10"
+    - "2024-05-01"
+    - "2024-05-06"
+    - "2024-05-15"
+    - "2024-06-06"
+    - "2024-08-15"
+    - "2024-09-16"
+    - "2024-09-17"
+    - "2024-09-18"
+    - "2024-10-03"
+    - "2024-10-09"
+    - "2024-12-25"
