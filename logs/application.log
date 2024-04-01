@@ -273,3 +273,196 @@
 24.04.01 09:27:14.889 INFO  h.a.ScheduledTask - point: 2744 197
 24.04.01 09:27:19.891 INFO  h.a.ScheduledTask - point: 2711 142
 24.04.01 09:27:24.898 INFO  h.a.ScheduledTask - point: 2875 628
+24.04.01 09:27:29.904 INFO  h.a.ScheduledTask - point: 3003 217
+24.04.01 09:28:02.872 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:28:04.874 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:28:09.886 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:28:09.886 INFO  h.a.ScheduledTask - point: 52 356
+24.04.01 09:28:14.890 INFO  h.a.ScheduledTask - point: 104 334
+24.04.01 09:28:19.892 INFO  h.a.ScheduledTask - point: 209 333
+24.04.01 09:28:24.899 INFO  h.a.ScheduledTask - point: 2168 344
+24.04.01 09:28:29.905 INFO  h.a.ScheduledTask - point: 133 353
+24.04.01 09:29:02.859 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:29:04.866 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:29:09.879 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:29:09.879 INFO  h.a.ScheduledTask - point: 2109 589
+24.04.01 09:29:14.885 INFO  h.a.ScheduledTask - point: 2848 335
+24.04.01 09:29:19.892 INFO  h.a.ScheduledTask - point: 444 263
+24.04.01 09:29:24.899 INFO  h.a.ScheduledTask - point: 724 293
+24.04.01 09:29:29.900 INFO  h.a.ScheduledTask - point: 458 306
+24.04.01 09:30:02.859 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:30:04.869 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:30:09.879 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:30:09.880 INFO  h.a.ScheduledTask - point: 701 866
+24.04.01 09:30:14.891 INFO  h.a.ScheduledTask - point: 2725 611
+24.04.01 09:30:19.895 INFO  h.a.ScheduledTask - point: 414 385
+24.04.01 09:30:24.909 INFO  h.a.ScheduledTask - point: 383 605
+24.04.01 09:30:29.918 INFO  h.a.ScheduledTask - point: 827 1006
+24.04.01 09:31:02.859 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:31:04.865 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:31:09.881 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:31:09.881 INFO  h.a.ScheduledTask - point: 738 708
+24.04.01 09:31:14.889 INFO  h.a.ScheduledTask - point: 450 284
+24.04.01 09:31:19.892 INFO  h.a.ScheduledTask - point: 825 431
+24.04.01 09:31:24.898 INFO  h.a.ScheduledTask - point: 502 554
+24.04.01 09:31:29.910 INFO  h.a.ScheduledTask - point: 727 616
+24.04.01 09:32:02.869 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:32:04.874 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:32:09.892 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:32:09.892 INFO  h.a.ScheduledTask - point: 124 495
+24.04.01 09:32:14.902 INFO  h.a.ScheduledTask - point: 728 524
+24.04.01 09:32:19.908 INFO  h.a.ScheduledTask - point: 729 518
+24.04.01 09:32:24.910 INFO  h.a.ScheduledTask - point: 484 544
+24.04.01 09:32:29.911 INFO  h.a.ScheduledTask - point: 710 190
+24.04.01 09:33:02.859 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:33:04.866 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:33:09.879 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:33:09.880 INFO  h.a.ScheduledTask - point: 165 379
+24.04.01 09:33:14.885 INFO  h.a.ScheduledTask - point: 556 184
+24.04.01 09:33:19.886 INFO  h.a.ScheduledTask - point: 1026 563
+24.04.01 09:33:24.888 INFO  h.a.ScheduledTask - point: 911 550
+24.04.01 09:33:29.891 INFO  h.a.ScheduledTask - point: 606 519
+24.04.01 09:34:02.859 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:34:04.866 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:34:09.879 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:34:09.880 INFO  h.a.ScheduledTask - point: 777 430
+24.04.01 09:34:14.886 INFO  h.a.ScheduledTask - point: 644 579
+24.04.01 09:34:19.892 INFO  h.a.ScheduledTask - point: 969 139
+24.04.01 09:34:24.904 INFO  h.a.ScheduledTask - point: 965 503
+24.04.01 09:34:29.905 INFO  h.a.ScheduledTask - point: 964 507
+24.04.01 09:35:02.860 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:35:04.867 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:35:09.880 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:35:09.880 INFO  h.a.ScheduledTask - point: 1832 146
+24.04.01 09:35:14.886 INFO  h.a.ScheduledTask - point: 1788 301
+24.04.01 09:35:19.887 INFO  h.a.ScheduledTask - point: 2717 171
+24.04.01 09:35:24.888 INFO  h.a.ScheduledTask - point: 2891 344
+24.04.01 09:35:29.896 INFO  h.a.ScheduledTask - point: 860 429
+24.04.01 09:36:02.872 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:36:04.874 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:36:09.886 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:36:09.887 INFO  h.a.ScheduledTask - point: 864 485
+24.04.01 09:36:14.903 INFO  h.a.ScheduledTask - point: 799 600
+24.04.01 09:36:19.913 INFO  h.a.ScheduledTask - point: 799 606
+24.04.01 09:36:24.915 INFO  h.a.ScheduledTask - point: 282 146
+24.04.01 09:36:29.920 INFO  h.a.ScheduledTask - point: 235 148
+24.04.01 09:37:02.861 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:37:04.862 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:37:09.868 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:37:09.868 INFO  h.a.ScheduledTask - point: 1535 423
+24.04.01 09:37:14.873 INFO  h.a.ScheduledTask - point: 1460 561
+24.04.01 09:37:19.879 INFO  h.a.ScheduledTask - point: 573 187
+24.04.01 09:37:24.881 INFO  h.a.ScheduledTask - point: 1718 156
+24.04.01 09:37:29.901 INFO  h.a.ScheduledTask - point: 105 227
+24.04.01 09:38:02.859 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:38:04.876 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:38:09.903 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:38:09.903 INFO  h.a.ScheduledTask - point: 2654 569
+24.04.01 09:38:14.911 INFO  h.a.ScheduledTask - point: 2712 573
+24.04.01 09:38:19.917 INFO  h.a.ScheduledTask - point: 2765 681
+24.04.01 09:38:24.924 INFO  h.a.ScheduledTask - point: 2611 323
+24.04.01 09:38:29.939 INFO  h.a.ScheduledTask - point: 2611 323
+24.04.01 09:39:02.861 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:39:04.866 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:39:09.878 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:39:09.878 INFO  h.a.ScheduledTask - point: 2728 590
+24.04.01 09:39:14.881 INFO  h.a.ScheduledTask - point: 2776 478
+24.04.01 09:39:19.882 INFO  h.a.ScheduledTask - point: 3677 244
+24.04.01 09:39:24.889 INFO  h.a.ScheduledTask - point: 3163 364
+24.04.01 09:39:29.892 INFO  h.a.ScheduledTask - point: 2695 856
+24.04.01 09:40:02.868 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:40:04.883 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:40:09.890 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:40:09.890 INFO  h.a.ScheduledTask - point: 2991 530
+24.04.01 09:40:14.894 INFO  h.a.ScheduledTask - point: 2991 530
+24.04.01 09:40:19.896 INFO  h.a.ScheduledTask - point: 2991 530
+24.04.01 09:40:24.897 INFO  h.a.ScheduledTask - point: 2991 530
+24.04.01 09:40:29.899 INFO  h.a.ScheduledTask - point: 2991 530
+24.04.01 09:41:02.878 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:41:04.879 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:41:09.900 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:41:09.900 INFO  h.a.ScheduledTask - point: 1345 788
+24.04.01 09:41:14.904 INFO  h.a.ScheduledTask - point: 2417 212
+24.04.01 09:41:19.908 INFO  h.a.ScheduledTask - point: 823 989
+24.04.01 09:41:24.913 INFO  h.a.ScheduledTask - point: 823 989
+24.04.01 09:41:29.914 INFO  h.a.ScheduledTask - point: 430 1019
+24.04.01 09:42:02.863 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:42:04.868 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:42:09.889 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:42:09.889 INFO  h.a.ScheduledTask - point: 2844 655
+24.04.01 09:42:14.895 INFO  h.a.ScheduledTask - point: 3111 439
+24.04.01 09:42:19.908 INFO  h.a.ScheduledTask - point: 3111 439
+24.04.01 09:42:24.910 INFO  h.a.ScheduledTask - point: 2948 467
+24.04.01 09:42:29.914 INFO  h.a.ScheduledTask - point: 2716 449
+24.04.01 09:43:02.867 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:43:04.875 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:43:09.884 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:43:09.884 INFO  h.a.ScheduledTask - point: 2756 545
+24.04.01 09:43:14.888 INFO  h.a.ScheduledTask - point: 2742 497
+24.04.01 09:43:19.895 INFO  h.a.ScheduledTask - point: 2706 445
+24.04.01 09:43:24.896 INFO  h.a.ScheduledTask - point: 2853 627
+24.04.01 09:43:29.911 INFO  h.a.ScheduledTask - point: 2853 627
+24.04.01 09:44:02.866 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:44:04.882 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:44:09.889 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:44:09.889 INFO  h.a.ScheduledTask - point: 2786 509
+24.04.01 09:44:14.893 INFO  h.a.ScheduledTask - point: 2848 671
+24.04.01 09:44:19.898 INFO  h.a.ScheduledTask - point: 2929 457
+24.04.01 09:44:24.905 INFO  h.a.ScheduledTask - point: 2859 853
+24.04.01 09:44:29.908 INFO  h.a.ScheduledTask - point: 2867 840
+24.04.01 09:45:02.861 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:45:04.863 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:45:09.875 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:45:09.875 INFO  h.a.ScheduledTask - point: 2737 628
+24.04.01 09:45:14.880 INFO  h.a.ScheduledTask - point: 2813 761
+24.04.01 09:45:19.886 INFO  h.a.ScheduledTask - point: 2703 548
+24.04.01 09:45:24.898 INFO  h.a.ScheduledTask - point: 2810 642
+24.04.01 09:45:29.902 INFO  h.a.ScheduledTask - point: 3099 728
+24.04.01 09:46:02.857 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:46:04.867 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:46:09.883 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:46:09.883 INFO  h.a.ScheduledTask - point: 857 415
+24.04.01 09:46:14.895 INFO  h.a.ScheduledTask - point: 392 0
+24.04.01 09:46:19.896 INFO  h.a.ScheduledTask - point: 1174 592
+24.04.01 09:46:24.899 INFO  h.a.ScheduledTask - point: 983 462
+24.04.01 09:46:29.904 INFO  h.a.ScheduledTask - point: 855 850
+24.04.01 09:47:02.861 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:47:04.865 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:47:09.876 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:47:09.876 INFO  h.a.ScheduledTask - point: 614 514
+24.04.01 09:47:14.884 INFO  h.a.ScheduledTask - point: 1398 766
+24.04.01 09:47:19.887 INFO  h.a.ScheduledTask - point: 284 683
+24.04.01 09:47:24.891 INFO  h.a.ScheduledTask - point: 463 393
+24.04.01 09:47:29.905 INFO  h.a.ScheduledTask - point: 1010 381
+24.04.01 09:48:02.858 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:48:04.859 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:48:09.874 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:48:09.874 INFO  h.a.ScheduledTask - point: 941 772
+24.04.01 09:48:14.876 INFO  h.a.ScheduledTask - point: 660 0
+24.04.01 09:48:19.890 INFO  h.a.ScheduledTask - point: 732 415
+24.04.01 09:48:24.897 INFO  h.a.ScheduledTask - point: 1050 571
+24.04.01 09:48:29.907 INFO  h.a.ScheduledTask - point: 2949 875
+24.04.01 09:49:02.872 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:49:04.887 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:49:09.902 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:49:09.902 INFO  h.a.ScheduledTask - point: 594 0
+24.04.01 09:49:14.905 INFO  h.a.ScheduledTask - point: 3110 911
+24.04.01 09:49:19.918 INFO  h.a.ScheduledTask - point: 571 796
+24.04.01 09:49:24.925 INFO  h.a.ScheduledTask - point: 826 791
+24.04.01 09:49:29.926 INFO  h.a.ScheduledTask - point: 3112 891
+24.04.01 09:50:02.861 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:50:04.864 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:50:09.884 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:50:09.884 INFO  h.a.ScheduledTask - point: 2648 196
+24.04.01 09:50:14.906 INFO  h.a.ScheduledTask - point: 2923 246
+24.04.01 09:50:19.920 INFO  h.a.ScheduledTask - point: 2475 53
+24.04.01 09:50:24.924 INFO  h.a.ScheduledTask - point: 3071 797
+24.04.01 09:50:29.930 INFO  h.a.ScheduledTask - point: 1060 755
+24.04.01 09:51:02.858 INFO  h.a.ScheduledTask - doAction: on duty
+24.04.01 09:51:04.867 INFO  h.a.ScheduledTask - action: awake
+24.04.01 09:51:09.893 INFO  h.a.ScheduledTask - action: point
+24.04.01 09:51:09.893 INFO  h.a.ScheduledTask - point: 2599 255
+24.04.01 09:51:14.900 INFO  h.a.ScheduledTask - point: 1993 235
+24.04.01 09:51:19.904 INFO  h.a.ScheduledTask - point: 2197 419
+24.04.01 09:51:24.906 INFO  h.a.ScheduledTask - point: 2866 322
+24.04.01 09:51:29.906 INFO  h.a.ScheduledTask - point: 2204 91
