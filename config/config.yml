@@ -93,7 +93,7 @@ schedule:
         - "select works::click 1172 139"
         - "select home::click 1412 135"
         - "go password::click 561 605"
-        - "password set::keyin ahffkWkti18!"
+        - "password set::keyin password"
         - "login::enter"
         - "click off::click 1575 420"
         - "click confirm::click 1240 800"
