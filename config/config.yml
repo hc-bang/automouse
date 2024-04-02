@@ -37,15 +37,15 @@ schedule:
         dayOfWeeks: 1, 4
         time: "eq 18:03"
       action-templates:
-        - "work off"
         - "close all windows"
+        - "work off"
     - name: "work off (TUESDAY, WEDNESDAY, FRIDAY)"
       condition:
         dayOfWeeks: 2, 4, 5
         time: "eq 18:04"
       action-templates:
-        - "work off"
         - "close all windows"
+        - "work off"
 
     - name: "shut down"
       condition:
@@ -64,7 +64,7 @@ schedule:
     - name: "on duty"
       condition:
         dayOfWeeks: 1, 2, 3, 4, 5
-        time: "bw 08:57 19:00"
+        time: "bw 08:57 18:05"
       action-templates:
         - "print point"
 
@@ -93,12 +93,13 @@ schedule:
         - "select works::click 1172 139"
         - "select home::click 1412 135"
         - "go password::click 561 605"
-        - "password set::keyin ahffkWkti18!"
+        - "password set::keyin password"
         - "login::enter"
         - "click off::click 1575 420"
         - "click confirm::click 1240 800"
         - "click my name::click 1755 140"
         - "click logout::click 1565 314"
+        - "close left::click 1900 15"
 
     - name: "shut down"
       actions:
